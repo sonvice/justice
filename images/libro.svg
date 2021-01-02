@@ -1,0 +1,12 @@
+<svg id="libro" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="envolvente">
+    <rect id="Rectángulo_5" data-name="Rectángulo 5" width="60" height="60" fill="none"/>
+  </g>
+  <g id="noun_Law_429981" transform="translate(14 7)">
+    <g id="Grupo_7" data-name="Grupo 7">
+      <circle id="Elipse_1" data-name="Elipse 1" cx="1" cy="1" r="1" transform="translate(15 19)" fill="#d3ae3c"/>
+      <path id="Trazado_8" data-name="Trazado 8" d="M44.158,5H13.842A.847.847,0,0,0,13,5.852V46.741A4.24,4.24,0,0,0,17.211,51H44.158a.852.852,0,0,0,0-1.7H17.211a2.556,2.556,0,0,1,0-5.111H44.158A.846.846,0,0,0,45,43.333V5.852A.847.847,0,0,0,44.158,5ZM29,22.037A2.551,2.551,0,0,1,30.869,26.3,2.551,2.551,0,0,1,29,30.556H27.316a.852.852,0,0,1,0-1.7H29a.852.852,0,0,0,0-1.7,2.551,2.551,0,0,1-1.869-4.259A2.551,2.551,0,0,1,29,18.63h1.684a.852.852,0,0,1,0,1.7H29a.852.852,0,0,0,0,1.7Z" transform="translate(-13 -5)" fill="#d3ae3c"/>
+      <path id="Trazado_9" data-name="Trazado 9" d="M44.176,53H17.824a1.019,1.019,0,0,0,0,2H44.176a1.019,1.019,0,0,0,0-2Z" transform="translate(-13 -13)" fill="#d3ae3c"/>
+    </g>
+  </g>
+</svg>
